@@ -1,6 +1,9 @@
 A simple basic solution to impment a licensing server.
+This sample uses Django, Admin and Rest Framework.
 Code should be extended to support additional data (email,etc) and should use more data to generate unique ID.
 Even it should be added a protection against VMs.
+You can reset Django Admin password via "changepassword" option.
+
 a C sample code:
 
 int swallow_redpill () {
