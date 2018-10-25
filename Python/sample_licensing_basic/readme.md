@@ -1,4 +1,4 @@
-A simple basic solution to impment a licensing server.
+A simple basic solution to implement a licensing server.
 This sample uses Django, Admin and Rest Framework.
 Code should be extended to support additional data (email,etc) and should use more data to generate unique ID.
 Even it should be added a protection against VMs.
